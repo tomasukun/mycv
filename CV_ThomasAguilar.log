@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 MAR 2018 13:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  23 SEP 2018 12:08
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **CV_ThomasAguilar.tex
 (./CV_ThomasAguilar.tex
@@ -337,40 +338,34 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 250.
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--285
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--292
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
 
  []
 
 
-Overfull \hbox (12.06894pt too wide) in paragraph at lines 293--294
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+
+ []
+
+
+Overfull \hbox (12.06894pt too wide) in paragraph at lines 301--302
 []\OT1/cmr/m/n/10.95 Statistical anal-y-sis for clin-i-cal and pol-icy re-searc
 h us-ing large com-mer-cial/medicare
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 295--296
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
-
- []
-
-
-Overfull \hbox (0.9644pt too wide) in paragraph at lines 302--303
-[]\OT1/cmr/m/n/10.95 Managing large pro-pri-etary datasets us-ing SAS and STATA
- in linux en-vi-ron-ment 
  []
 
 
@@ -379,14 +374,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 303--304
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--310
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
 
  []
 
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
+Overfull \hbox (0.9644pt too wide) in paragraph at lines 310--311
+[]\OT1/cmr/m/n/10.95 Managing large pro-pri-etary datasets us-ing SAS and STATA
+ in linux en-vi-ron-ment 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
 
  []
 
@@ -396,53 +397,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 317--318
  []
 
 
-Overfull \hbox (7.03377pt too wide) in paragraph at lines 319--321
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+
+ []
+
+
+Overfull \hbox (7.03377pt too wide) in paragraph at lines 327--329
 []\OT1/cmr/m/n/10.95 Building Bayesian hi-er-ar-chi-cal mod-els in R/WinBUGS to
  in-ves-ti-gate the in-flu-ence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--327
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
 
  []
 
 
-Overfull \hbox (12.92062pt too wide) in paragraph at lines 327--328
+Overfull \hbox (12.92062pt too wide) in paragraph at lines 335--336
 []\OT1/cmr/m/n/10.95 Developing al-go-rithm to de-com-pose the trends of Malari
 a pre-ven-tion and treat-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 328--329
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
 
  []
 
 
-Overfull \hbox (1.7881pt too wide) in paragraph at lines 335--336
+Overfull \hbox (1.7881pt too wide) in paragraph at lines 343--344
 \OT1/cmr/m/n/10.95 Phar-ma-ceu-ti-cal Industry-Sponsored Meals and Physi-cian P
 re-scrib-ing Pat-terns
  []
 
-
+[2] 
 AED: lastpage setting LastPage
-[2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 346.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 346.
+[3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 354.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 354.
  (./CV_ThomasAguilar.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 346.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 346.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 354.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 354.
 Package rerunfilecheck Info: File `CV_ThomasAguilar.out' has not changed.
 (rerunfilecheck)             Checksum: EDCA43CA2FF0DEDF37F4F5BF3816FA00;252.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 346.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 354.
  ) 
 Here is how much of TeX's memory you used:
- 5886 strings out of 493089
- 88072 string characters out of 6134842
+ 5887 strings out of 493089
+ 88078 string characters out of 6134842
  184528 words of memory out of 5000000
  9330 multiletter control sequences out of 15000+600000
  7939 words of font info for 28 fonts, out of 8000000 for 9000
@@ -454,10 +465,10 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CV_ThomasAguilar.pdf (2 pages, 90385 bytes).
+Output written on CV_ThomasAguilar.pdf (3 pages, 91418 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
+ 83 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
